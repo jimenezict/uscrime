@@ -8,7 +8,7 @@ But first of all
 * Nothig to complain, if you are here, it means that you have your IDE or Python environment. I was using 3.7 and PyCharm
 
 About the files.
-* CQL scripts for creating the keyspace and tables
+* CQL scripts for creating the keyspace and tables (it can be done from Python, as you wish, but this file will allow you to do it from the console)
 * Raw data with the crimes
 * Python with the ETL. Check out that some manipulations are done (guess which)
 * CRUD_examples, indicates some CQL to consume the dataset from Cassandra database
