@@ -11,6 +11,7 @@ About the files.
 * CQL scripts for creating the keyspace and tables
 * Raw data with the crimes
 * Python with the ETL. Check out that some manipulations are done (guess which)
+* CRUD_examples, indicates some CQL to consume the dataset from Cassandra database
 
 Enjoy and don't hesitate to contact me in case of doubts.
 
