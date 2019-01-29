@@ -15,3 +15,5 @@ About the files.
 Enjoy and don't hesitate to contact me in case of doubts.
 
 Keep trying, keep learning, keep growing.
+
+PD: in order to avoid you some console errors: install pandas, cassandra-drive and xlrd
